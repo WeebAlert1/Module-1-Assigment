@@ -44,4 +44,3 @@ for (i = 0; i<bigOrSmallArray.length; i++){
   }
 }
 
-console.log(answers);
